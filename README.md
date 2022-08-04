@@ -46,10 +46,10 @@ All Screenshots feature a commented section above a series of code. The commente
 * ![Side Bar](/assets/images/README%20Screenshots/side%20bar.JPG)
 
 * Screenshot 4: Footer
-* !![Footer](/assets/images/README%20Screenshots/footer.JPG)
+* ![Footer](/assets/images/README%20Screenshots/footer.JPG)
 
 * Screenshot 5: CSS Changes
-* !![CSS Changes](/assets/images/README%20Screenshots/css%20change.JPG)
+* ![CSS Changes](/assets/images/README%20Screenshots/css%20change.JPG)
 
  
  ## Noteable Links
